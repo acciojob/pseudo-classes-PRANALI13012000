@@ -23,12 +23,12 @@ li:nth-child(odd){
 li:first-child{
 	font-size:22px;
 }
-li:last-child{
+li:nth-last-child(3){
 	font-size:22px;
 }
 li:nth-child(3){
 	background-color:pink;
 }
-li:nth-last-child{
+li:nth-last-child(3){
    background-color:pink;
 }
